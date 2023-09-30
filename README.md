@@ -1,4 +1,4 @@
-{
+`{
   "Comment": "A simple AWS Step Functions state machine that automates a call center support session.",
   "StartAt": "ProcessTransaction",
   "States": {
@@ -29,7 +29,7 @@
     }
   }
 }
-
+`
 
 import json
 import datetime
